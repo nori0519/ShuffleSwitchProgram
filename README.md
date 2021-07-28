@@ -1,2 +1,2 @@
-#Shuffle関数
-#Switch関数
+###Shuffle関数
+###Switch関数
